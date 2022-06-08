@@ -2500,8 +2500,8 @@
     (pin "7" (uuid b26a44ab-f2c2-47dc-a04f-7e44586ae3c2))
     (pin "8" (uuid 7e065917-b83c-4b17-977d-2c8288debbd8))
     (pin "9" (uuid cffe7e9e-95dd-41eb-8380-e24f3b89863f))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f286))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f286))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f287))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f287))
   )
 
   (symbol (lib_id "MAX17048G+:MAX17048G+") (at 46.99 21.59 0) (unit 1)
