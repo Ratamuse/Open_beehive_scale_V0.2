@@ -1796,7 +1796,7 @@
   (symbol (lib_id "power:GND") (at 41.91 81.28 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid f314badf-692d-404c-b7d4-9383e3c1a0d7)
-    (property "Reference" "#PWR0137" (id 0) (at 41.91 87.63 0)
+    (property "Reference" "#PWR0204" (id 0) (at 41.91 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (id 1) (at 42.037 85.6742 0))
