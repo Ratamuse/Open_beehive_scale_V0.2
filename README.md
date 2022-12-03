@@ -25,10 +25,10 @@ Prévoir un taraud M5 pour fileter de chaque coté deux profilés alu 30x30mm
 2/ Circuit imprimé dessiné autour de la carte Arduino MKRWAN 1310
 - Possibilité de brancher jusqu'à:
 - 4 balances (circuit HX711)
-- 4 sondes externe de température/humidité SHT40
+- 4 sondes externes de température/humidité SHT40
 - 4 sondes de température DS1820b
-- 1 brocche I2C spare
-- 1 broche ADC spare
+- 1 broche I2C spare (possibilité de brancher par exemple un capteur de luminosité)
+- 1 broche analogique ou numérique spare (possibilité de brancher par exemple un pluviomètre)
 - 1 GPS QUECTEL L80-M33
 - 1 batterie Lipo
 - 1 panneau solaire 1W
