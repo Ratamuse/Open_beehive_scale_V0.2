@@ -44,6 +44,11 @@ Capteur de mouvement (contacteur à bille) pour créer un alarme.
 
 ![This is an image](https://github.com/Ratamuse/Open_beehive_scale_V0.2/blob/master/Electronique%20balance/Ruche%20dessous.jpg)
 
+3/Récupération des données: 
+Les données sont envoyées sur The Thing Network via une passerelle Lora situé dans mon logement.
+Les données sont ensuites récupérées sur un raspberry et affichées soit sur Domoticz soit sur Grafana via la création de bases de données InfluxDB et récupération des données avec NodeRed. 
+
+![This is an image](https://github.com/Ratamuse/Open_beehive_scale_V0.2/blob/master/Electronique%20balance/Grafana%206%20mois.png)
 
 
 
