@@ -2642,8 +2642,8 @@
     (pin "7" (uuid b26a44ab-f2c2-47dc-a04f-7e44586ae3c2))
     (pin "8" (uuid 7e065917-b83c-4b17-977d-2c8288debbd8))
     (pin "9" (uuid cffe7e9e-95dd-41eb-8380-e24f3b89863f))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f28f))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f28f))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f290))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f290))
   )
 
   (symbol (lib_id "MAX17048G+:MAX17048G+") (at 152.4 120.65 0) (unit 1)
@@ -3252,7 +3252,7 @@
   (symbol (lib_id "Device:C") (at 40.64 33.02 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 4bd821f2-0707-4078-b490-ee80c8fe83b7)
-    (property "Reference" "C51" (id 0) (at 43.561 31.8516 0)
+    (property "Reference" "C52" (id 0) (at 43.561 31.8516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10µF" (id 1) (at 43.561 34.163 0)
@@ -3966,7 +3966,7 @@
   (symbol (lib_id "Device:C") (at 50.8 33.02 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid fd8286f5-83f2-4c75-b09d-fdd0c502a928)
-    (property "Reference" "C52" (id 0) (at 53.721 31.8516 0)
+    (property "Reference" "C51" (id 0) (at 53.721 31.8516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1µF" (id 1) (at 53.721 34.163 0)
@@ -4497,11 +4497,11 @@
     (path "/00000000-0000-0000-0000-00006011445d/519a791e-0bcd-4251-9c6a-0ae9db3c8dba"
       (reference "C50") (unit 1) (value "0.1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
-    (path "/4bd821f2-0707-4078-b490-ee80c8fe83b7"
-      (reference "C51") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
-    )
     (path "/fd8286f5-83f2-4c75-b09d-fdd0c502a928"
-      (reference "C52") (unit 1) (value "0.1µF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+      (reference "C51") (unit 1) (value "0.1µF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/4bd821f2-0707-4078-b490-ee80c8fe83b7"
+      (reference "C52") (unit 1) (value "10µF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/d2746501-2960-4618-ba16-fa886c4044e2"
       (reference "C53") (unit 1) (value "0.1µF") (footprint "Capacitor_SMD:C_0603_1608Metric")

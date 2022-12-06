@@ -1,4 +1,4 @@
-### Module positions - created on Sat Dec  3 11:35:46 2022 ###
+### Module positions - created on Mon Dec  5 11:44:55 2022 ###
 ### Printed by Pcbnew version (6.0.5)
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -53,8 +53,8 @@ C47       0.1µF         C_0603_1608Metric                        67.2600    32.
 C48       0.1µF         C_0603_1608Metric                        62.0300    32.0900    0.0000  top
 C49       10µF          C_0805_2012Metric                        67.4700    30.7200    0.0000  top
 C50       0.1µF         C_0603_1608Metric                        28.6800    74.4500   90.0000  top
-C51       10µF          C_0603_1608Metric                        48.7338    29.2000  -90.0000  top
-C52       0.1µF         C_0805_2012Metric                        50.3537    29.0300  -90.0000  top
+C51       0.1µF         C_0603_1608Metric                        48.7338    29.2000  -90.0000  top
+C52       10µF          C_0805_2012Metric                        50.3537    29.0300  -90.0000  top
 C53       0.1µF         C_0603_1608Metric                        43.3438    29.2000  -90.0000  top
 C54       10µF          C_0805_2012Metric                        41.7037    29.0300  -90.0000  top
 D1        LED            LED_0603_1608Metric_Castellated           5.5900    29.4300    0.0000  top
