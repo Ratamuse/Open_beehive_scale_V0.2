@@ -2642,8 +2642,8 @@
     (pin "7" (uuid b26a44ab-f2c2-47dc-a04f-7e44586ae3c2))
     (pin "8" (uuid 7e065917-b83c-4b17-977d-2c8288debbd8))
     (pin "9" (uuid cffe7e9e-95dd-41eb-8380-e24f3b89863f))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f290))
-    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f290))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f291))
+    (pin "~" (uuid 8222a934-a129-4eb9-9bed-77a9a7a4f291))
   )
 
   (symbol (lib_id "MAX17048G+:MAX17048G+") (at 152.4 120.65 0) (unit 1)
@@ -4660,7 +4660,7 @@
       (reference "Q5") (unit 1) (value "MMBT4403") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-0000609e7af1/26b8040d-b4b6-44ec-9538-7e7484d33d9d"
-      (reference "R1") (unit 1) (value "2K") (footprint "Resistor_SMD:R_0603_1608Metric")
+      (reference "R1") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/00000000-0000-0000-0000-0000609e7af1/0e7d6f7e-cab7-471f-bbc4-637272e771c1"
       (reference "R2") (unit 1) (value "120") (footprint "Resistor_SMD:R_0603_1608Metric")
